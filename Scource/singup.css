@@ -1,0 +1,87 @@
+*
+   {
+      padding: 0;
+      margin: 0;
+      align-content: center;
+      
+   }
+form h3
+   {
+      font-size: 30px;
+      color: #000;;
+      display: flex;
+   }
+body
+   {
+      background-size: cover;
+      background-position: bottom;
+   }
+.singup
+   {
+      display: flex;
+      align-items: center;
+      width: 400px;
+      height: 900px;
+      padding: 25px 30px;
+      margin: auto;
+      background-color: rgba(255, 255, 255, 0.472);
+      border-radius: 20px;
+   }
+.login
+   {
+      display: flex;
+      align-items: center;
+      width: 350px;
+      height: 400px;
+      padding: 25px 30px;
+      margin: auto;
+      background-color: rgba(255, 255, 255, 0.472);
+      border-radius: 20px;
+   }
+form
+   {
+      width: 300px;
+      margin-left: 20px;
+   }
+form li
+   {
+      display: flex;
+      color: rgb(0, 0, 0);
+      margin-top: 18px;
+      font-size: 18px;
+
+   }
+form li span
+   {
+      color:red;
+   }
+form input , select
+   {
+      width: 100%;
+      padding: 7px;
+      border: 1px solid blueviolet;
+      border-radius: 10px;
+      font-size: 16px;
+   }
+form li a
+   {
+      width: 100%;
+      display: flex;
+      border-radius: 15px;
+      background-color: blueviolet;
+   }
+form li :hover
+   {
+      color:blueviolet;
+      font-size: 18px;
+   }
+a:hover
+   {
+      font-size: 18px;
+   }
+.home
+   {
+      display: inline-flex;
+      list-style: none;
+      width: 30%;
+   }
