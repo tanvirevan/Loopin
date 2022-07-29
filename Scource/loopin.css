@@ -17,6 +17,43 @@ body {
    font-size: 20px;
 }
 
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { 
+   .company{
+      visibility: hidden;
+   }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+   .company{
+      visibility: hidden;
+   }
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+   .company{
+      visibility: visible;
+   }
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+   .company{
+      visibility: visible;
+   }
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+   .company{
+      visibility: visible;
+   }
+}
+
 /* footer part */
 .last {
    
