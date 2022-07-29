@@ -4,6 +4,21 @@ body {
    font-family: 'Poppins', sans-serif;
    margin: 0%;
 }
+/* Carousel part */
+.car{
+   height: 700px;
+
+
+}
+.cover-img{
+   background-color: black;
+}
+.text{
+   text-decoration: none;
+   font-weight: 500;
+   font-size: 20px;
+}
+
 /* footer part */
 .last {
    
